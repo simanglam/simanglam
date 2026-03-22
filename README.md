@@ -1,13 +1,8 @@
-This User is An Open Source Coder, User, and Promoter.
+Who am I?
+Si Manglam, a student at National Chung Cheng University with undirected curiosity.
 
-# Who Am I?
+What am I doing?
+Exploring—without insisting on immediate meaning. Coherence can wait.
 
-I am Si manglam, CCU student who interested in Literate Programming and Open Source.
-
-# What am I Doing?
-
-I'm coding some dirty thing and making my own Literate Programming tools. Also trying to promote Open Source in CCU.
-
-# Why?
-
-WHY NOT?
+Why?
+“Why” does not need justification.
