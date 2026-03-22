@@ -4,5 +4,5 @@ Si Manglam, a student at National Chung Cheng University with undirected curiosi
 # What am I doing?
 Exploring—without insisting on immediate meaning. Coherence can wait.
 
-$ Why?
+# Why?
 “Why” does not need justification.
